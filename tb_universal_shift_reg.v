@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps
+timescale 1ns / 1ps
 module tb_universal_shift_reg();
     reg clk, rst, s_in_left, s_in_right;
     reg [1:0] s;
